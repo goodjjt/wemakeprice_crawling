@@ -3,4 +3,3 @@ requests
 urllib3
 schedule
 BeautifulSoup4
-PyKakao
